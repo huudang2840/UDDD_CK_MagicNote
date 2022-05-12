@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "590171277607",
+    "project_id": "magicnote-538ba",
+    "storage_bucket": "magicnote-538ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590171277607:android:fab53e98fcd522e6c1c102",
+        "android_client_info": {
+          "package_name": "com.example.magicnote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590171277607-30oh7pjcjv30fu5erg72oos1fm2inbmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU4HhSMaVrUzsAeyU1KkrZiiP-DVeCSgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590171277607-30oh7pjcjv30fu5erg72oos1fm2inbmt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
